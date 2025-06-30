@@ -27,7 +27,6 @@ It uses **object-oriented programming** and **Unicode ₹ symbol** for Indian cu
 ### Sample Output:
 
 Enter account holder name: Ankur
-
 Enter initial balance : ₹10000
 
 --- Menu ---
