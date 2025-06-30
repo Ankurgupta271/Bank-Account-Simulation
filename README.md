@@ -27,6 +27,7 @@ It uses **object-oriented programming** and **Unicode ₹ symbol** for Indian cu
 ### Sample Output:
 
 Enter account holder name: Ankur
+
 Enter initial balance : ₹10000
 
 --- Menu ---
@@ -36,7 +37,9 @@ Enter initial balance : ₹10000
 4. Transaction History
 5. Exit
 Choose an option: 1
+
 Enter amount to deposit : ₹5000
+
 Deposit successful. New balance: ₹15000.0
 
 ### ⚙️ Compile and Run
